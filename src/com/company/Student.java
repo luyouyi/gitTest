@@ -7,7 +7,7 @@ package com.company;
  * @date 2020/12/24/14:52
  */
 public class Student {
-    
+       private  String name="直火帮";
     public static void main(String[] args) {
         System.out.println("SFG");
     }
